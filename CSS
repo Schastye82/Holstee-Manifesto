@@ -1,0 +1,93 @@
+body {background:black;
+}
+main {color: pink;
+    font-family:times;
+    text-align:center;
+    font-style:oblique;
+    font-weight:bold;
+    text-decoration:underline;
+    line-height:2;
+    font-size:60;
+    float:left
+}
+.emphasis-1 {font-style:italic;
+    color:lightblue;
+    font-size:35;
+    float;right
+}
+
+.emphasis-2{font-style:italic;
+    color:mediumorchid;
+    font-size:35;
+    float:left;
+    
+}
+
+.emphasis-3{font-style:bold;
+    color:rosybrown;
+    font-size:35;
+    text-align:left;
+}
+
+.emphasis-4 {font-style:oblique;
+    color:lightblue;
+    font-size:25;
+}
+
+.emphasis-5 {font-style:bold;
+    color:seagreen;
+    font-size:25;
+    
+}
+
+.emphasis-6 {font-style:italic;
+    color:teal;
+    font-size:25;
+    
+}
+
+.emphasis-7 {font-style:italic;
+    color:plum;
+    font-size:25;
+    
+}
+   .emphasis-8 {font-style:bold;
+    color:mediumspringgreen;
+    font-size:25;
+   
+}
+.emphasis-9 {font-style:italic;
+    color:lightpink;
+    font-size:25;
+   
+}
+    .emphasis-10 {font-style:italic;
+    color:lightskyblue;
+    font-size:25;
+    
+}
+.emphasis-11 {font-style:italic;
+    color:cornsilk;
+    font-size:25;
+    
+}
+
+.emphasis-6 {font-style:italic;
+    color:ivory;
+    font-size:45;
+    
+   
+}
+
+.travel{font-style:bold;
+    font-size:35
+        color:lemonchiffon;
+    text-align:right;
+}
+p   {color:wheat;
+    font-family:times;
+    text-align:center;
+    font-style:oblique;
+    font-size:25;
+    
+}
